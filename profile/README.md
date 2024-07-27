@@ -13,6 +13,7 @@ Starling is a spatial insight, strategy and design studio that develops regenera
 
 - [Docker | Blender](https://github.com/starling-cloud/docker-blender)
 - [Docker | FreeCAD](https://github.com/starling-cloud/docker-freecad)
+- [Docker | Mitsuba](https://github.com/starling-cloud/docker-mitsuba)
 - [Docker | OpenSCAD](https://github.com/starling-cloud/docker-openscad)
 - [Docker | pythonOCC](https://github.com/starling-cloud/docker-pythonocc)
 
