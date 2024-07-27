@@ -19,15 +19,18 @@ Starling is a spatial insight, strategy and design studio that develops regenera
 </td><td valign="top">
 <img width="300" height="1" />
 
-**Open Source**
+**Django Plug-ins**
 
-- [Egg](https://github.com/starling-cloud/egg)
-- [D4](https://github.com/starling-cloud/d4)
 - [Django BIM](https://github.com/starling-cloud/django-bim)
 - [Django LAN](https://github.com/starling-cloud/django-lan)
 
 </td><td valign="top">
 <img width="300" height="1" />
+
+**Other**
+
+- [Egg](https://github.com/starling-cloud/egg)
+- [D4](https://github.com/starling-cloud/d4)
 
 </td></tr></tbody></table>
 </div>
